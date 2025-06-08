@@ -2,7 +2,7 @@
 `include "ALU_rtl_design.v"
 `define PASS 1'b1
 `define FAIL 1'b0
-`define no_of_testcase 2
+`define no_of_testcase 100
 
 
 module test_bench_alu();
